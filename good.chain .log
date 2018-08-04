@@ -1,0 +1,5 @@
+Current Hash	| 60a834ca99ca7c464a4c16d4d61095c1180e128d37207858aebd728db2797b7a
+Previous Hash	| 79e09874b55cf0dda5deb05416f850261985aa7951b429bb6b9a8bee9a3a619f
+Signed 			| 2018-08-01 16:03:56.397853
+---------- Begin Ledger ----------
+[{"ID": 0, "From": "brandon", "To": "user1", "Amount": 10.0, "Message": "", "Timestamp": "2018-08-01 16:03:49.237995", "TransactionSignature": "8008edb653cd65c76ebe721744e80d4147884106f550160ce6a65943dd1bd22e", "previousLedgerSignature": null}, {"ID": 1, "From": "brandon", "To": "user2", "Amount": 100.0, "Message": "", "Timestamp": "2018-08-01 16:03:56.397635", "TransactionSignature": "25b6c86381a8ba233b8c8fc3b375ebe5d95a9abf95cc2456d23e4f83643c4847", "previousLedgerSignature": "79e09874b55cf0dda5deb05416f850261985aa7951b429bb6b9a8bee9a3a619f"}]
