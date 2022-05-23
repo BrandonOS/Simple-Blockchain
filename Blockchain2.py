@@ -177,7 +177,7 @@ def LogIn():
 			print("Nay. Wrong username try again.")
 
 def MainMenu():
-	print("%3d: %s" % (0, "Quit"))
+	print("%3d: %s" % (0, "Close Program"))
 	print("%3d: %s" % (1, "Make a Transfer"))
 	print("%3d: %s" % (2, "View current ledger"))
 	print("%3d: %s" % (3, "Import default Ledger (chain.log)"))
